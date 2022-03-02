@@ -33,3 +33,4 @@ wget
 youtube-search
 
 youtube-search-python
+search_engine_parser
